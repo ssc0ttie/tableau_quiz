@@ -122,7 +122,7 @@ questions = [
 # Streamlit App
 # -------------------------------
 st.title("📊 Tableau Training Quiz")
-st.write("Test your knowledge with this 20-question multiple-choice quiz.")
+st.write("Test your knowledge with this multiple-choice quiz.")
 
 user_answers = []
 
